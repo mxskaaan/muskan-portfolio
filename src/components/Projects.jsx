@@ -126,7 +126,6 @@ return ( <nav className="fixed top-0 left-0 w-full z-50 backdrop-blur-xl bg-blac
   )}
 
 </nav>
-```
 
 );
 };
